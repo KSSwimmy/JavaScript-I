@@ -35,22 +35,22 @@ const intern2 = {
 
 const intern3 = {
   "id": 3,
-  "name":
-  "email":
-  "gender": 
+  "name": "",
+  "email": "",
+  "gender": "",
 };
 
 const intern4 = {
   "id": 4,
-  "name":
-  "email":
-  "gender": 
+  "name": "",
+  "email": "",
+  "gender": "",
 };
 
 const intern5 = {
   "id": 5,
-  "name":
-  "email":
+  "name": "",
+  "email": 
   "gender": 
 };
 // ==== Challenge 2: Reading Object Data ==== 
