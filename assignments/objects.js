@@ -35,23 +35,23 @@ const intern2 = {
 
 const intern3 = {
   "id": 3,
-  "name": "",
-  "email": "",
-  "gender": "",
+  "name": "Keven",
+  "email": "mummery2@wikimedia.org",
+  "gender": "M",
 };
 
 const intern4 = {
   "id": 4,
-  "name": "",
-  "email": "",
-  "gender": "",
+  "name": "Gannie",
+  "email": "gmartinson3@illinois.edu",
+  "gender": "M",
 };
 
 const intern5 = {
   "id": 5,
-  "name": "",
-  "email": 
-  "gender": 
+  "name": "Antonietta",
+  "email": "adaine5@samsung.com",
+  "gender": "F",
 };
 // ==== Challenge 2: Reading Object Data ==== 
 // Once your objects are created, log out the following requests from HR into the console:
