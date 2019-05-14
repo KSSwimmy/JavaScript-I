@@ -30,8 +30,13 @@ const intern2 = {
   "id": 2,
   "name": "Kennan",
   "email": "kdiben1@tinypic.com",
-  "gender": "M"
+  "gender": "M",
+  speak: function (banana) {
+    return `Hello, my name is  ${banana}` 
+  
+  }
 };
+console.log(intern2.speak("Kennan"))
 
 const intern3 = {
   "id": 3,
@@ -73,6 +78,7 @@ console.log(intern5.gender)
 // console.log(kennan.speak());
 
 console.log(kennan.speak("Hello, my name is " + kennan.name + "!"));
+
 
 
 // Antonietta loves math, give her the ability to multiply two numbers together and return the product. Use the console.log provided as a hint.
